@@ -101,7 +101,7 @@ A RESTful API for managing book reviews built with Node.js, Express, and MongoDB
 - Body:
   ```json
   {
-    "rating": number,
+    "rating": "number",
     "comment": "string"
   }
   ```
@@ -112,7 +112,7 @@ A RESTful API for managing book reviews built with Node.js, Express, and MongoDB
 - Body:
   ```json
   {
-    "rating": number,
+    "rating": "number",
     "comment": "string"
   }
   ```
