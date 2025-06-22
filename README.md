@@ -180,4 +180,4 @@ The API uses standard HTTP status codes:
 - JWT tokens are used for authentication
 - Input validation and sanitization
 - Rate limiting (to be implemented)
-- CORS enabled 
+- CORS enabled. 
