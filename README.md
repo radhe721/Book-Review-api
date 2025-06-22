@@ -1,4 +1,4 @@
-# Book Review API
+# Book Review API Scalable
 
 A RESTful API for managing book reviews built with Node.js, Express, and MongoDB.
 
